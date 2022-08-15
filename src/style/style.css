@@ -163,4 +163,9 @@ footer {
     background-color: var(--cor5);
     font-family: var(--font-padrão);
     text-align: center;
-}    
+} 
+
+footer a {
+    text-decoration: none;
+    color: #092812b1;
+}
